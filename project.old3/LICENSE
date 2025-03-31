@@ -1,0 +1,7 @@
+Package: salesanalysis
+Title: Sales Data Analysis
+Description: An R package for analyzing and visualizing sales data. It includes functions to generate random data, calculate total sales by product, and create bar charts of sales.
+Version: 0.1.0
+Authors@R: Giulia Casaldi, gcasaldi@gmail.com
+License: MIT
+Video: https://youtu.be/vKTVxIcyoJo
